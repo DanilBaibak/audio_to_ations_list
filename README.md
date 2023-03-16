@@ -9,7 +9,7 @@ We break our solution into two stages:
 2. Extract the action list from the text.
 
 <p align="center">
-  <img src="https://github.com/DanilBaibak/ml-in-production/blob/master/images/meeting_record_to_actions_list.png" width="300" title="A meeting record to the actions list">
+  <img src="https://github.com/DanilBaibak/tmp_audio_to_ations_list/blob/main/data/images/meeting_record_to_actions_list.png" width="500" title="A meeting record to the actions list">
 </p>
 
 You can find more details in the Medium article.
