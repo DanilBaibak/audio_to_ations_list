@@ -12,7 +12,7 @@ We break our solution into two stages:
   <img src="https://github.com/DanilBaibak/tmp_audio_to_ations_list/blob/main/data/images/meeting_record_to_actions_list.png" width="500" title="A meeting record to the actions list">
 </p>
 
-You can find more details in the Medium article.
+You can find more details in the [Medium article](https://danylo-baibak.medium.com/machine-learning-project-to-convert-an-audio-record-into-an-actions-list-1e3386cd02d8).
 
 ## Installation
 
